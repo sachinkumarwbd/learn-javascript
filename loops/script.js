@@ -81,7 +81,7 @@ for (const sum of arrs) {
 //maps
 
 let map1 = new Map();
-map1.set("ind", "mdia");
+map1.set("in", "india");
 console.log(map1); //print Map(1) { 'ind' => 'mdia' }  duplicate not print
 
 for (const [key, value] of map1) {
